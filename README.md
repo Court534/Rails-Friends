@@ -51,7 +51,7 @@ Start the server
 
 - Users can sign up
 - Users can log in & log out
-- Users can add new friends and their details 
+- Users can add new friends and details 
 - Users can delete their friends and details
 
 
