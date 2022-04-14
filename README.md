@@ -1,5 +1,5 @@
 
-# Rails Friends (Unfinished)
+# Rails Friends
 
 This is a friends list organiser that lets you keep track of things like:
 - Phone numbers
